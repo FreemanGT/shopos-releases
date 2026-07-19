@@ -1,12 +1,12 @@
 {
   "shopos-theme": {
-    "version": "1.14.0",
-    "package": "https://github.com/FreemanGT/shopos-releases/releases/download/theme-1.14.0/shopos-theme-1.14.0.zip",
-    "released": "2026-07-17",
+    "version": "1.15.0",
+    "package": "https://github.com/FreemanGT/shopos-releases/releases/download/theme-1.15.0/shopos-theme-1.15.0.zip",
+    "released": "2026-07-19",
     "requires": "6.0",
     "tested": "6.8",
     "requires_php": "8.0",
-    "changelog_url": "https://github.com/FreemanGT/shopos-releases/releases/tag/theme-1.14.0"
+    "changelog_url": "https://github.com/FreemanGT/shopos-releases/releases/tag/theme-1.15.0"
   },
   "shopos-core": {
     "version": "1.44.4",
