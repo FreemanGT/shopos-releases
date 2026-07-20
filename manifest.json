@@ -9,12 +9,12 @@
     "changelog_url": "https://github.com/FreemanGT/shopos-releases/releases/tag/theme-1.20.0"
   },
   "shopos-core": {
-    "version": "1.50.0",
-    "package": "https://github.com/FreemanGT/shopos-releases/releases/download/core-1.50.0/shopos-core-1.50.0.zip",
+    "version": "1.52.0",
+    "package": "https://github.com/FreemanGT/shopos-releases/releases/download/core-1.52.0/shopos-core-1.52.0.zip",
     "released": "2026-07-20",
     "requires": "6.0",
     "tested": "6.8",
     "requires_php": "8.0",
-    "changelog_url": "https://github.com/FreemanGT/shopos-releases/releases/tag/core-1.50.0"
+    "changelog_url": "https://github.com/FreemanGT/shopos-releases/releases/tag/core-1.52.0"
   }
 }
