@@ -10,13 +10,13 @@
     "sha256": "d4d1f872c604249ab2179456e1688ca7fbf110848377f43ad26ad39fe0c3a9b9"
   },
   "shopos-core": {
-    "version": "3.23.1",
-    "package": "https://github.com/FreemanGT/shopos-releases/releases/download/core-3.23.1/shopos-core-3.23.1.zip",
-    "released": "2026-10-07",
+    "version": "3.23.4",
+    "package": "https://github.com/FreemanGT/shopos-releases/releases/download/core-3.23.4/shopos-core-3.23.4.zip",
+    "released": "2026-10-08",
     "requires": "6.0",
     "tested": "6.8",
     "requires_php": "8.0",
-    "changelog_url": "https://github.com/FreemanGT/shopos-releases/releases/tag/core-3.23.1",
-    "sha256": "6fa11d1e1409ef0d16dbb782674812b189d319610c4f156bce798b5aa342e87c"
+    "changelog_url": "https://github.com/FreemanGT/shopos-releases/releases/tag/core-3.23.4",
+    "sha256": "16ca76aa2de6cb8a63a5c346385251c22cb13c06acc495cb9a97799e9a8bf8a2"
   }
 }
